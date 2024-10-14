@@ -1,1 +1,1 @@
-<h1>Streams</h1>
+<h1 align="center">Streams</h1>
